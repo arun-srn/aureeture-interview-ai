@@ -29,8 +29,6 @@ Resume → Parsing → Question Generation → Candidate Response → ML Evaluat
   - Evaluation score  
   - Feedback  
 
-*(Add screenshots or examples here if possible)*
-
 ---
 
 ## 🛠 Tech Stack
